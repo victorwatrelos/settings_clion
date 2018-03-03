@@ -1,0 +1,32 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Build">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="ChangesView.Diff" />
+  <action id="CheckinProject" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.Execute" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="EditorChooseLookupItem" />
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="UsageView.Rerun" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
