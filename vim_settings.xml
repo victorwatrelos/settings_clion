@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1520112488099">
+      <file name="/Dummy.txt" timestamp="1520117130317">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ft_p/CMakeLists.txt" timestamp="1520104709430">
@@ -20,16 +20,24 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_server/send_data_over_socket.c" timestamp="1520117002996">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="43" column="35" />
+        <mark key="." line="43" column="35" />
+        <mark key="^" line="43" column="35" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_common/send_data.c" timestamp="1520109387805" />
       <file name="$USER_HOME$/CLionProjects/ft_p/src_client/connect_to_server.c" timestamp="1520108266827">
         <mark key="'" line="47" column="4" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/get_data_from_socket.c" timestamp="1520115332075">
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/cmd_cd.c" timestamp="1520116442706" />
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/get_data_from_socket.c" timestamp="1520117051486">
         <mark key="'" line="23" column="8" />
-        <mark key="[" line="91" column="21" />
-        <mark key="]" line="91" column="21" />
-        <mark key="." line="91" column="21" />
-        <mark key="^" line="91" column="21" />
+        <mark key="[" line="5" column="66" />
+        <mark key="]" line="5" column="84" />
+        <mark key="." line="5" column="84" />
+        <mark key="^" line="5" column="84" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_server/test_path.c" timestamp="1520115962527">
         <mark key="[" line="29" column="0" />
@@ -46,12 +54,18 @@
         <mark key="^" line="40" column="40" />
         <mark key="." line="40" column="40" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/ft_p/src_server/cmd_ls.c" timestamp="1520116007068">
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_server/cmd_ls.c" timestamp="1520116765137">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="105" column="41" />
-        <mark key="]" line="105" column="40" />
-        <mark key="^" line="105" column="40" />
-        <mark key="." line="105" column="40" />
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="19" column="37" />
+        <mark key="^" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_server/includes/send_data_over_socket.h" timestamp="1520116962797">
+        <mark key="[" line="5" column="63" />
+        <mark key="]" line="5" column="63" />
+        <mark key="." line="5" column="63" />
+        <mark key="^" line="5" column="63" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_server/launch_server.c" timestamp="1520114526473">
         <mark key="'" line="76" column="26" />
@@ -96,46 +110,52 @@
       <jump line="12" column="4" filename="$USER_HOME$/CLionProjects/ft_p/src_client/cmd_ls.c" />
       <jump line="46" column="0" filename="$USER_HOME$/CLionProjects/ft_p/src_client/cmd_ls.c" />
       <jump line="21" column="0" filename="$USER_HOME$/CLionProjects/ft_p/src_server/cmd_ls.c" />
+      <jump line="2" column="0" filename="$USER_HOME$/CLionProjects/ft_p/src_server/send_data_over_socket.c" />
+      <jump line="46" column="6" filename="$USER_HOME$/CLionProjects/ft_p/src_server/send_data_over_socket.c" />
+      <jump line="73" column="56" filename="$USER_HOME$/CLionProjects/ft_p/src_server/send_data_over_socket.c" />
+      <jump line="93" column="0" filename="$USER_HOME$/CLionProjects/ft_p/src_server/send_data_over_socket.c" />
+      <jump line="76" column="0" filename="$USER_HOME$/CLionProjects/ft_p/src_server/send_data_over_socket.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/ft_p/src_server/send_data_over_socket.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCBzZXJ2X2ZzLT5iYXNlX2Rpcikp</text>
+        <text>IP</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBzZXJ2X2ZzLT5iYXNlX2Rpcikp</text>
+        <text>IP</text>
       </register>
       <register name="/" type="4">
         <text>lg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW50CQl0ZXN0X2xzX3BhdGgoY2hhciAqcGF0aCkK</text>
+        <text encoding="base64">aW50CXJ1bl9jbWQoY2hhciAqY21kLCBjaGFyICoqYXJncywgdF9zZXJ2X2ZzICpzZXJ2X2ZzLCBpbnQgZmQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWlmIChjaGRpcihjdXJfZGlyKSA8IDApCgkJcmV0dXJuICgwKTsKCXJldHVybiAodGVzdF9wYXRoX3ZhbGlkKGJ1ZmYsIGJhc2VfZGlyKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNoYXIJCWJ1ZmZbTUFYX1BBVEhfU0laRSArIDFdOwoJY2hhcgkJY3VyX2RpcltNQVhfUEFUSF9TSVpFICsgMV07CgoJaWYgKCFnZXRjd2QoY3VyX2RpciwgTUFYX1BBVEhfU0laRSkpCgkJcmV0dXJuICgwKTsKCWlmIChjaGRpcihwYXRoKSA8IDApCgkJcmV0dXJuICgwKTsKCWlmICghZ2V0Y3dkKGJ1ZmYsIE1BWF9QQVRIX1NJWkUpKQoJewoJCWNoZGlyKGN1cl9kaXIpOwoJCXJldHVybiAoMCk7Cgl9Cg==</text>
+        <text encoding="base64">ICAgIGNoYXIgc3RyW0lORVRfQUREUlNUUkxFTl07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWlmIChmdF9zdHJzdHIoKSkK</text>
+        <text encoding="base64">I2luY2x1ZGUgInNlcnZlcl9zdHJ1Y3QuaCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsb3NlKG91dCkK</text>
+        <text encoding="base64">dHlwZWRlZiB0X3NlcnZfZnM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaW50ZigiQ21kIGV4ZWN1dGlvbiBmaW5pc2hlZCIpOwo=</text>
+        <text encoding="base64">c3RydWN0X2FsaWFzIHRfc2Vydl9mczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaW50ZigiVEhFTlxuIik7Cg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBOT1Agb24gMy8zLzE4LgovLwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIk9wZW4gc29ja2V0IHRvICVkIGhhcyBmYWlsXG4iLCBzZXJ2ZXJfZGF0YV9wb3J0KTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgInNlbmRfZGF0YV9vdmVyX3NvY2tldC5oCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXNlcnZlcl9kYXRhX3BvcnQgPSBnZXRfcG9ydCgpOwoJZnRfYnplcm8oJnRoaXMsIHNpemVvZih0aGlzKSk7Cgl0aGlzLnNpbl9mYW1pbHkgPSBBRl9JTkVUOwoJdGhpcy5zaW5fcG9ydCA9IGh0b25zKHNlcnZlcl9kYXRhX3BvcnQpOwoJdGhpcy5zaW5fYWRkci5zX2FkZHIgPSBodG9ubChJTkFERFJfQU5ZKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgInNlbmRfZGF0YV9vdmVyX3NvY2tldC5oCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
