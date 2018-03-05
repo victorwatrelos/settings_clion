@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/includes/catch_client_sig.h" timestamp="1520287457537">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="16" />
+      </file>
       <file name="/Dummy.txt" timestamp="1520117166756">
         <mark key="[" line="0" column="0" />
       </file>
@@ -13,6 +19,12 @@
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/main_client.c" timestamp="1520287858741">
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="37" column="16" />
+        <mark key="." line="37" column="16" />
+        <mark key="^" line="37" column="16" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/CMakeLists.txt" timestamp="1520105827068">
         <mark key="'" line="54" column="23" />
@@ -27,11 +39,20 @@
         <mark key="." line="43" column="35" />
         <mark key="^" line="43" column="35" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/ft_p/src_common/send_data.c" timestamp="1520109387805" />
-      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/connect_to_server.c" timestamp="1520108266827">
-        <mark key="'" line="47" column="4" />
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/catch_client_sig.c" timestamp="1520287801536">
+        <mark key="'" line="3" column="26" />
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/cmd_cd.c" timestamp="1520116442706" />
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/connect_to_server.c" timestamp="1520287560011">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="22" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="45" column="21" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_client/get_data_from_socket.c" timestamp="1520117051486">
         <mark key="'" line="23" column="8" />
         <mark key="[" line="5" column="66" />
@@ -48,11 +69,11 @@
       <file name="/fragment.m" timestamp="1520108580603">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/ft_p/src_server/read_loop.c" timestamp="1520107640411">
-        <mark key="[" line="38" column="23" />
-        <mark key="]" line="40" column="40" />
-        <mark key="^" line="40" column="40" />
-        <mark key="." line="40" column="40" />
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_server/read_loop.c" timestamp="1520286966466">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="74" column="31" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_server/cmd_ls.c" timestamp="1520116765137">
         <mark key="'" line="21" column="0" />
@@ -67,20 +88,27 @@
         <mark key="." line="5" column="63" />
         <mark key="^" line="5" column="63" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/includes/client_struct.h" timestamp="1520286820506">
+        <mark key="'" line="23" column="28" />
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_server/launch_server.c" timestamp="1520114526473">
         <mark key="'" line="76" column="26" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/cmd_ls.c" timestamp="1520114257849">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="10" column="43" />
-        <mark key="]" line="10" column="45" />
-        <mark key="." line="10" column="45" />
-        <mark key="^" line="10" column="45" />
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/cmd_ls.c" timestamp="1520287020424">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="43" column="62" />
       </file>
-      <file name="/LLDB" timestamp="1520111930654">
+      <file name="/LLDB" timestamp="1520287653932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_server/includes/test_path.h" timestamp="1520115987541">
@@ -116,57 +144,60 @@
       <jump line="93" column="0" filename="$USER_HOME$/CLionProjects/ft_p/src_server/send_data_over_socket.c" />
       <jump line="76" column="0" filename="$USER_HOME$/CLionProjects/ft_p/src_server/send_data_over_socket.c" />
       <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/ft_p/src_server/send_data_over_socket.c" />
+      <jump line="23" column="28" filename="$USER_HOME$/CLionProjects/ft_p/src_client/includes/client_struct.h" />
+      <jump line="37" column="4" filename="$USER_HOME$/CLionProjects/ft_p/src_client/connect_to_server.c" />
+      <jump line="2" column="26" filename="$USER_HOME$/CLionProjects/ft_p/src_client/catch_client_sig.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IP</text>
+        <text>PIPE</text>
       </register>
       <register name="-" type="4">
-        <text>IP</text>
+        <text>PIPE</text>
       </register>
       <register name="/" type="4">
-        <text>lg</text>
+        <text encoding="base64">IC0=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW50CXJ1bl9jbWQoY2hhciAqY21kLCBjaGFyICoqYXJncywgdF9zZXJ2X2ZzICpzZXJ2X2ZzLCBpbnQgZmQpCg==</text>
+        <text encoding="base64">CXNpZ25hbChTSUdQSVBFLCBjYXRjaF9jbGllbnRfc2lnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoYXIgc3RyW0lORVRfQUREUlNUUkxFTl07Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHpjb25mLmg+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInNlcnZlcl9zdHJ1Y3QuaCIK</text>
+        <text encoding="base64">CXsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHlwZWRlZiB0X3NlcnZfZnM7Cg==</text>
+        <text encoding="base64">CQlwcmludGYoIkVSUk9SIC0gSW52YWxpZCBhdXRoIHJlc3BvbnNlIGZyb20gc2VydmVyXG4iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RydWN0X2FsaWFzIHRfc2Vydl9mczsK</text>
+        <text encoding="base64">CQlyZXR1cm4gKDApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBOT1Agb24gMy8zLzE4LgovLwoK</text>
+        <text encoding="base64">CXByaW50ZigiUmVjdjogJXNcbiIsIGNvbW1hbmQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInNlbmRfZGF0YV9vdmVyX3NvY2tldC5oCg==</text>
+        <text encoding="base64">CXByaW50ZigiTFMgbGluZTogJXNcbiIsIGxpbmUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInNlbmRfZGF0YV9vdmVyX3NvY2tldC5oCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gKDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lg</last-search>
+      <last-search encoding="base64">IC0=</last-search>
       <last-offset />
-      <last-pattern>lg</last-pattern>
-      <last-replace>client</last-replace>
-      <last-substitute>server</last-substitute>
+      <last-pattern encoding="base64">IC0=</last-pattern>
+      <last-replace>ERROR -</last-replace>
+      <last-substitute encoding="base64">IC0=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -177,11 +208,15 @@
         <entry>init_server</entry>
         <entry>received bugg</entry>
         <entry>lg</entry>
+        <entry encoding="base64">IC0=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NlcnZlci9jbGllbnQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLyAtL0VSUk9SIC0vZw==</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -192,6 +227,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
