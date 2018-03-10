@@ -69,11 +69,11 @@
       <file name="/fragment.m" timestamp="1520108580603">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/ft_p/src_server/read_loop.c" timestamp="1520286966466">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="74" column="31" />
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_server/read_loop.c" timestamp="1520684353264">
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="33" column="45" />
+        <mark key="." line="33" column="45" />
+        <mark key="^" line="33" column="45" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_server/cmd_ls.c" timestamp="1520369550199">
         <mark key="'" line="17" column="0" />
@@ -95,21 +95,21 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/ft_p/src_server/launch_server.c" timestamp="1520637338602">
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_server/launch_server.c" timestamp="1520684458260">
         <mark key="'" line="78" column="26" />
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="23" />
-        <mark key="." line="15" column="23" />
-        <mark key="^" line="15" column="23" />
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="19" />
+        <mark key="." line="37" column="19" />
+        <mark key="^" line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/cmd_ls.c" timestamp="1520287020424">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="43" column="62" />
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/cmd_ls.c" timestamp="1520684501307">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+        <mark key="^" line="25" column="30" />
       </file>
-      <file name="/LLDB" timestamp="1520287653932">
+      <file name="/LLDB" timestamp="1520684503291">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_server/includes/test_path.h" timestamp="1520115987541">
@@ -151,10 +151,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>error</text>
+        <text encoding="base64">RVJST1Ig</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text encoding="base64">RVJST1Ig</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IC0=</text>
