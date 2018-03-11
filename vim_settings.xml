@@ -112,10 +112,11 @@
       <file name="/LLDB" timestamp="1520684522106">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/get_param.c" timestamp="1520685189456">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/get_param.c" timestamp="1520795611008">
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="44" column="21" />
+        <mark key="." line="44" column="21" />
+        <mark key="^" line="44" column="21" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_server/includes/test_path.h" timestamp="1520115987541">
         <mark key="[" line="7" column="32" />
@@ -156,7 +157,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">RVJST1Ig</text>
@@ -168,31 +169,31 @@
         <text encoding="base64">CQlzZW5kX3N0cigiRVJST1IgLSBQYXRoIG5vIGF1dGhvcml6ZWRcbiIsIHNlcnZfZnMsIGZkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNldHNvY2tvcHQoc29ja2ZkLCApCg==</text>
+        <text encoding="base64">CQlsaW5lID0gTlVMTDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSsrcG9ydDsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbG9zZShjbGllbnRfZmQpOwo=</text>
+        <text encoding="base64">CWludCBpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwcmludGYoIlRyeWluZyBvbiBwb3J0ICVkXG4iLCBzZXJ2ZXJfZGF0YV9wb3J0KTsK</text>
+        <text encoding="base64">CWkgPSAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGFycGEvaW5ldC5oPgo=</text>
+        <text encoding="base64">ICAgIGZvciAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlwcmludGYoIlBhdGggaW52YWxpZFxuIik7Cg==</text>
+        <text encoding="base64">CWZvciAobGluZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlwcmludGYoIlBhdGggaW52YWxpZFxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
