@@ -66,7 +66,7 @@
         <mark key="^" line="35" column="14" />
         <mark key="." line="35" column="14" />
       </file>
-      <file name="/fragment.m" timestamp="1521377666003">
+      <file name="/fragment.m" timestamp="1521378617753">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_server/read_loop.c" timestamp="1520684353264">
@@ -108,7 +108,7 @@
         <mark key="." line="25" column="30" />
         <mark key="^" line="25" column="30" />
       </file>
-      <file name="/LLDB" timestamp="1521377869136">
+      <file name="/LLDB" timestamp="1521378576246">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_client/includes/get_param.h" timestamp="1520796192872">
@@ -117,13 +117,13 @@
         <mark key="." line="7" column="46" />
         <mark key="^" line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/get_param.c" timestamp="1521377864796">
-        <mark key="a" line="100" column="20" />
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/get_param.c" timestamp="1521378566571">
+        <mark key="a" line="102" column="20" />
         <mark key="'" line="1" column="25" />
-        <mark key="[" line="97" column="40" />
-        <mark key="]" line="97" column="41" />
-        <mark key="^" line="97" column="41" />
-        <mark key="." line="97" column="41" />
+        <mark key="[" line="91" column="23" />
+        <mark key="]" line="92" column="16" />
+        <mark key="^" line="92" column="16" />
+        <mark key="." line="92" column="16" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_server/includes/test_path.h" timestamp="1520115987541">
         <mark key="[" line="7" column="32" />
@@ -166,8 +166,8 @@
       <jump line="1" column="25" filename="$USER_HOME$/CLionProjects/ft_p/src_client/get_param.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlpZiAoaGFzX2NvbnRlbnQpCgkJCXNhdmVfc3RyKGFyZ3MgKyBpZHhfYXJncywgYXJnLCBjdXJyX2FyZ19wb3MgLSBhcmcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
