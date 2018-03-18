@@ -20,11 +20,11 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/main_client.c" timestamp="1520796356713">
-        <mark key="[" line="32" column="16" />
-        <mark key="]" line="32" column="16" />
-        <mark key="." line="32" column="16" />
-        <mark key="^" line="35" column="29" />
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/main_client.c" timestamp="1521375964172">
+        <mark key="[" line="40" column="20" />
+        <mark key="]" line="40" column="29" />
+        <mark key="." line="40" column="29" />
+        <mark key="^" line="40" column="29" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/CMakeLists.txt" timestamp="1520105827068">
         <mark key="'" line="54" column="23" />
@@ -66,7 +66,7 @@
         <mark key="^" line="35" column="14" />
         <mark key="." line="35" column="14" />
       </file>
-      <file name="/fragment.m" timestamp="1520108580603">
+      <file name="/fragment.m" timestamp="1521377666003">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_server/read_loop.c" timestamp="1520684353264">
@@ -108,7 +108,7 @@
         <mark key="." line="25" column="30" />
         <mark key="^" line="25" column="30" />
       </file>
-      <file name="/LLDB" timestamp="1520684522106">
+      <file name="/LLDB" timestamp="1521377869136">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_client/includes/get_param.h" timestamp="1520796192872">
@@ -117,11 +117,13 @@
         <mark key="." line="7" column="46" />
         <mark key="^" line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/get_param.c" timestamp="1521375874655">
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="57" column="9" />
-        <mark key="." line="57" column="9" />
-        <mark key="^" line="57" column="9" />
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_client/get_param.c" timestamp="1521377864796">
+        <mark key="a" line="100" column="20" />
+        <mark key="'" line="1" column="25" />
+        <mark key="[" line="97" column="40" />
+        <mark key="]" line="97" column="41" />
+        <mark key="^" line="97" column="41" />
+        <mark key="." line="97" column="41" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_server/includes/test_path.h" timestamp="1520115987541">
         <mark key="[" line="7" column="32" />
@@ -159,46 +161,49 @@
       <jump line="23" column="28" filename="$USER_HOME$/CLionProjects/ft_p/src_client/includes/client_struct.h" />
       <jump line="37" column="4" filename="$USER_HOME$/CLionProjects/ft_p/src_client/connect_to_server.c" />
       <jump line="2" column="26" filename="$USER_HOME$/CLionProjects/ft_p/src_client/catch_client_sig.c" />
+      <jump line="81" column="10" filename="$USER_HOME$/CLionProjects/ft_p/src_client/get_param.c" />
+      <jump line="77" column="38" filename="$USER_HOME$/CLionProjects/ft_p/src_client/get_param.c" />
+      <jump line="1" column="25" filename="$USER_HOME$/CLionProjects/ft_p/src_client/get_param.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxpbmUgIT0KCQkJCW5iX2FyZ3MrKzsK</text>
+        <text encoding="base64">CQlpZiAoaGFzX2NvbnRlbnQpCgkJCXNhdmVfc3RyKGFyZ3MgKyBpZHhfYXJncywgYXJnLCBjdXJyX2FyZ19wb3MgLSBhcmcpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICdcMCcp</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IC0=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWdldF9wYXJhbXMoInRvdG8iLCAmYXJncyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGhhc19jb250ZW50KQoJCQl7CgkJCQlzYXZlX3N0cihhcmdzICsgaWR4X2FyZ3MsIGFyZywgY3Vycl9hcmdfcG9zIC0gYXJnKTsKCQkJCWN1cnJfYXJnX3BvcyA9IGFyZzsKCQkJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxpbmUgIT0KCQkJCW5iX2FyZ3MrKzsK</text>
+        <text encoding="base64">CQlpZiAoaGFzX2NvbnRlbnQpCgkJCXNhdmVfc3RyKGFyZ3MgKyBpZHhfYXJncywgYXJnLCBjdXJyX2FyZ19wb3MgLSBhcmcpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKmxpbmUgPT0gJyAnKQoJCXsKCQkJd2hpbGUgKCpsaW5lID09ICcgJykKCQkJCSsrbGluZTsKICAgICAgICAgICAgaWYgKGxpbmUgIT0gJ1wwJykKCQkJCW5iX2FyZ3MrKzsKCQl9CiAgICAgICAgaWYgKCpsaW5lID09ICciJykKCQl7CgkJCWlmIChpbl9xdW90ZSkKCQkJCSsrbmJfYXJnczsKCQkJaW5fcXVvdGUgPSAhaW5fcXVvdGU7CgkJCSsrbGluZTsKCQl9CgkJaWYgKCpsaW5lICE9ICdcMCcpCgkJCW5iX2FyZ3MrKzsKICAgICAgICB3aGlsZSAoKmxpbmUgIT0gJ1wwJwoJCQkJJiYgKChpbl9xdW90ZSAmJiAqbGluZSAhPSAnIicpCgkJCQl8fCAoIWluX3F1b3RlICYmICpsaW5lICE9ICcgJykpCgkJCQkpCgkJCSsrbGluZTsK</text>
+        <text encoding="base64">CQl7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWlmIChzZXRzb2Nrb3B0KHNvY2tmZCwgU09MX1NPQ0tFVCwgU09fTElOR0VSLCAoY2hhciBGQVIqKSZhLCBzaXplb2YoYSkpIDwgMCApCg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJY3Vycl9hcmdfcG9zID0gYXJnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXRvdG8K</text>
+        <text encoding="base64">CQlwcmludGYoIlx0QXJnOiAlc1xuIiwgKigqYXJncykrKyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXIK</text>
+        <text encoding="base64">CQkJCSsrbGluZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAoCg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJd2hpbGUgKCpsaW5lID09ICcgJykKCQkJCSsrbGluZTsK</text>
+        <text encoding="base64">CWludCAJCW5iX2FyZ3M7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -243,6 +248,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
