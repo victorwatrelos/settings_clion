@@ -9,11 +9,11 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/triangle/CMakeLists.txt" timestamp="1524170091433">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="14" column="7" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="14" column="7" />
+      <file name="$USER_HOME$/CLionProjects/triangle/CMakeLists.txt" timestamp="1524171169225">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="20" />
+        <mark key="^" line="19" column="34" />
+        <mark key="." line="19" column="20" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_server/send_data_over_socket.c" timestamp="1520369752593">
         <mark key="'" line="0" column="0" />
@@ -172,10 +172,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>graphics</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>graphics</text>
       </register>
       <register name="/" type="4">
         <text>ObjectManagerB</text>
@@ -184,31 +184,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGhhc19jb250ZW50KQoJCQl7CgkJCQlzYXZlX3N0cihhcmdzICsgaWR4X2FyZ3MsIGFyZywgY3Vycl9hcmdfcG9zIC0gYXJnKTsKCQkJCWN1cnJfYXJnX3BvcyA9IGFyZzsKCQkJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpZiAoaGFzX2NvbnRlbnQpCgkJCXNhdmVfc3RyKGFyZ3MgKyBpZHhfYXJncywgYXJnLCBjdXJyX2FyZ19wb3MgLSBhcmcpOwo=</text>
+        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKHNmbWwtZ3JhcGhpY3MpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQl7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CnRhcmdldF9saW5rX2xpYnJhcmllcygp</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQlpZiAoaGFzX2NvbnRlbnQpCgkJCXNhdmVfc3RyKGFyZ3MgKyBpZHhfYXJncywgYXJnLCBjdXJyX2FyZ19wb3MgLSBhcmcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJY3Vycl9hcmdfcG9zID0gYXJnOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlwcmludGYoIlx0QXJnOiAlc1xuIiwgKigqYXJncykrKyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCSsrbGluZTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CQl7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJY3Vycl9hcmdfcG9zID0gYXJnOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlwcmludGYoIlx0QXJnOiAlc1xuIiwgKigqYXJncykrKyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCSsrbGluZTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWludCAJCW5iX2FyZ3M7Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
