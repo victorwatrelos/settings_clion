@@ -9,11 +9,11 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/triangle/CMakeLists.txt" timestamp="1524250497578">
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
+      <file name="$USER_HOME$/CLionProjects/triangle/CMakeLists.txt" timestamp="1524253201027">
+        <mark key="[" line="28" column="96" />
+        <mark key="]" line="28" column="105" />
+        <mark key="." line="28" column="105" />
+        <mark key="^" line="28" column="105" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_server/send_data_over_socket.c" timestamp="1520369752593">
         <mark key="'" line="0" column="0" />
@@ -28,6 +28,17 @@
         <mark key="]" line="25" column="8" />
         <mark key="." line="25" column="8" />
         <mark key="^" line="17" column="13" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/triangle/Entity.hpp" timestamp="1524251802702">
+        <mark key="'" line="3" column="10" />
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/triangle/MathUtils.hpp" timestamp="1524251834628">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_client/get_data_from_socket.c" timestamp="1520369915027">
         <mark key="'" line="25" column="8" />
@@ -104,6 +115,11 @@
       <file name="$USER_HOME$/dev/ft_p/CMakeLists.txt" timestamp="1520104709430">
         <mark key="[" line="3" column="26" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/ft_p/src_common/get_args.c" timestamp="1520107548145">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_client/main_client.c" timestamp="1521375964172">
         <mark key="[" line="40" column="20" />
         <mark key="]" line="40" column="29" />
@@ -169,46 +185,50 @@
       <jump line="77" column="38" filename="$USER_HOME$/CLionProjects/ft_p/src_client/get_param.c" />
       <jump line="1" column="25" filename="$USER_HOME$/CLionProjects/ft_p/src_client/get_param.c" />
       <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/triangle/ObjectManager.hpp" />
+      <jump line="3" column="10" filename="$USER_HOME$/CLionProjects/triangle/Entity.hpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bGlua19kaXJlY3RvcmllcyhsaWIpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGV4dHVyZXMg</text>
       </register>
       <register name="-" type="4">
-        <text>graphics</text>
+        <text encoding="base64">dGV4dHVyZXMg</text>
       </register>
       <register name="/" type="4">
         <text>ObjectManagerB</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGhhc19jb250ZW50KQoJCQl7CgkJCQlzYXZlX3N0cihhcmdzICsgaWR4X2FyZ3MsIGFyZywgY3Vycl9hcmdfcG9zIC0gYXJnKTsKCQkJCWN1cnJfYXJnX3BvcyA9IGFyZzsKCQkJfQo=</text>
+        <text encoding="base64">ZXhlY3V0ZV9wcm9jZXNzICgKICAgICAgICBDT01NQU5EIGJhc2ggLWMgImxuIC1zICR7Q01BS0VfQ1VSUkVOVF9MSVNUX0RJUn0vdGV4dHVyZXMgJHtDTUFLRV9DVVJSRU5UX0JJTkFSWV9ESVJ9L3RleHR1cmVzICIKICAgICAgICBPVVRQVVRfVkFSSUFCTEUgb3V0VmFyCikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGlua19kaXJlY3RvcmllcyhsaWIpCg==</text>
+        <text encoding="base64">Y29uZmlndXJlX2ZpbGRkZQo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CmFkZF9saWJyYXJ5KGxpYnNmbWwtZ3JhcGhpY3MgU0hBUkVEIElNUE9SVEVEKQphZGRfbGlicmFyeShsaWJzZm1sLXdpbmRvdyBTSEFSRUQgSU1QT1JURUQpCmFkZF9saWJyYXJ5KGxpYnNmbWwtc3lzdGVtIFNIQVJFRCBJTVBPUlRFRCk=</text>
+        <text>(
+        &quot;textures&quot;
+        &quot;${CMAKE_CURRENT_BINARY_DIR}/&quot; COPYONLY
+)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKHNmbWwtZ3JhcGhpY3MpCg==</text>
+        <text encoding="base64">aW5jbHVkZV9kaXJlY3Rvcmllcygke1NGTUxfSU5DTFVERV9ESVJ9KQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CnRhcmdldF9saW5rX2xpYnJhcmllcygp</text>
+      <register name="4" type="2">
+        <text encoding="base64">bGlua19kaXJlY3RvcmllcygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiAoaGFzX2NvbnRlbnQpCgkJCXNhdmVfc3RyKGFyZ3MgKyBpZHhfYXJncywgYXJnLCBjdXJyX2FyZ19wb3MgLSBhcmcpOwo=</text>
+        <text encoding="base64">bGlua19kaXJlY3RvcmllcyhsaWIpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQl7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmFkZF9saWJyYXJ5KGxpYnNmbWwtZ3JhcGhpY3MgU0hBUkVEIElNUE9SVEVEKQphZGRfbGlicmFyeShsaWJzZm1sLXdpbmRvdyBTSEFSRUQgSU1QT1JURUQpCmFkZF9saWJyYXJ5KGxpYnNmbWwtc3lzdGVtIFNIQVJFRCBJTVBPUlRFRCk=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKHNmbWwtZ3JhcGhpY3MpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJY3Vycl9hcmdfcG9zID0gYXJnOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CnRhcmdldF9saW5rX2xpYnJhcmllcygp</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwcmludGYoIlx0QXJnOiAlc1xuIiwgKigqYXJncykrKyk7Cg==</text>
+        <text encoding="base64">CQlpZiAoaGFzX2NvbnRlbnQpCgkJCXNhdmVfc3RyKGFyZ3MgKyBpZHhfYXJncywgYXJnLCBjdXJyX2FyZ19wb3MgLSBhcmcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
