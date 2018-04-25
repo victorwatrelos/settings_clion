@@ -17,10 +17,10 @@
         <mark key="^" line="27" column="30" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/BerkeleySocket/Select.h" timestamp="1524603298030">
-        <mark key="'" line="62" column="13" />
+        <mark key="'" line="63" column="13" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
-        <mark key="^" line="58" column="39" />
+        <mark key="^" line="59" column="39" />
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/test/SocketAddressFactoryTest.h" timestamp="1524341299435">
@@ -43,10 +43,10 @@
         <mark key="." line="35" column="14" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/BerkeleySocket/Multiplexer.h" timestamp="1524603547217">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="132" />
-        <mark key="^" line="21" column="126" />
-        <mark key="." line="21" column="126" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="132" />
+        <mark key="^" line="25" column="126" />
+        <mark key="." line="25" column="126" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/test/ListenTest.h" timestamp="1524417217732">
         <mark key="[" line="11" column="51" />
@@ -73,11 +73,11 @@
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/networker/Server/Listen.cpp" timestamp="1524603657835">
-        <mark key="[" line="18" column="60" />
-        <mark key="]" line="18" column="61" />
-        <mark key="." line="18" column="61" />
-        <mark key="^" line="18" column="61" />
+      <file name="$USER_HOME$/CLionProjects/networker/Server/Listen.cpp" timestamp="1524605008969">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="32" column="19" />
+        <mark key="." line="32" column="19" />
+        <mark key="^" line="32" column="19" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_client/includes/client_struct.h" timestamp="1520286820506">
         <mark key="'" line="23" column="28" />
@@ -106,22 +106,22 @@
         <mark key="." line="25" column="30" />
         <mark key="^" line="25" column="30" />
       </file>
-      <file name="/LLDB" timestamp="1524391696631">
+      <file name="/LLDB" timestamp="1524604990158">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/networker/BerkeleySocket/Select.cpp" timestamp="1524602998539">
+      <file name="$USER_HOME$/CLionProjects/networker/BerkeleySocket/Select.cpp" timestamp="1524605093043">
         <mark key="'" line="63" column="8" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="53" column="135" />
+        <mark key="[" line="51" column="86" />
+        <mark key="]" line="51" column="90" />
+        <mark key="." line="51" column="90" />
+        <mark key="^" line="51" column="90" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/networker/BerkeleySocket/UDPSocket.cpp" timestamp="1524427757663">
+      <file name="$USER_HOME$/CLionProjects/networker/BerkeleySocket/UDPSocket.cpp" timestamp="1524604771882">
         <mark key="'" line="21" column="20" />
-        <mark key="[" line="61" column="46" />
-        <mark key="]" line="61" column="46" />
-        <mark key="." line="61" column="46" />
-        <mark key="^" line="61" column="46" />
+        <mark key="[" line="61" column="61" />
+        <mark key="]" line="61" column="63" />
+        <mark key="." line="61" column="63" />
+        <mark key="^" line="61" column="63" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/CMakeLists.txt" timestamp="1524603271688">
         <mark key="'" line="49" column="19" />
@@ -136,11 +136,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/networker/Server/Listen.h" timestamp="1524603640581">
-        <mark key="[" line="32" column="48" />
-        <mark key="]" line="32" column="49" />
-        <mark key="." line="32" column="49" />
-        <mark key="^" line="32" column="49" />
+      <file name="$USER_HOME$/CLionProjects/networker/Server/Listen.h" timestamp="1524604062665">
+        <mark key="[" line="33" column="61" />
+        <mark key="]" line="33" column="61" />
+        <mark key="." line="33" column="61" />
+        <mark key="^" line="33" column="61" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/test/SocketAddressFactoryTest.cpp" timestamp="1524390263850">
         <mark key="'" line="6" column="47" />
@@ -149,17 +149,12 @@
         <mark key="." line="12" column="63" />
         <mark key="^" line="12" column="63" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/networker/Common/Logger.h" timestamp="1524390846521">
-        <mark key="'" line="63" column="22" />
-        <mark key="[" line="53" column="13" />
-        <mark key="]" line="54" column="22" />
-        <mark key="." line="54" column="22" />
-        <mark key="^" line="54" column="22" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/networker/Socket.h" timestamp="1524303383219">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/CLionProjects/networker/Common/Logger.h" timestamp="1524605187167">
+        <mark key="'" line="64" column="54" />
+        <mark key="[" line="64" column="49" />
+        <mark key="]" line="64" column="55" />
+        <mark key="." line="64" column="55" />
+        <mark key="^" line="64" column="55" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/.gitignore" timestamp="1524304664004">
         <mark key="[" line="32" column="0" />
@@ -234,19 +229,14 @@
         <mark key="." line="25" column="8" />
         <mark key="^" line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/triangle/MathUtils.hpp" timestamp="1524251834628">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-      </file>
       <file name="/fragment.m" timestamp="1521378617753">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/networker/BerkeleySocket/Settings.h" timestamp="1524427204236">
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="11" column="42" />
-        <mark key="." line="11" column="42" />
-        <mark key="^" line="11" column="42" />
+      <file name="$USER_HOME$/CLionProjects/networker/BerkeleySocket/Settings.h" timestamp="1524604419628">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="36" />
+        <mark key="." line="10" column="36" />
+        <mark key="^" line="10" column="36" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/test/SocketAddressTest.cpp" timestamp="1524390103725">
         <mark key="'" line="28" column="30" />
@@ -255,11 +245,11 @@
         <mark key="^" line="24" column="48" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/networker/test/ListenTest.cpp" timestamp="1524603485021">
-        <mark key="[" line="6" column="48" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/CLionProjects/networker/test/ListenTest.cpp" timestamp="1524605238574">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="28" column="101" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/test.cpp" timestamp="1524345577582">
         <mark key="[" line="12" column="32" />
@@ -267,12 +257,12 @@
         <mark key="." line="12" column="35" />
         <mark key="^" line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/networker/test/UDPSocketTest.cpp" timestamp="1524417099454">
+      <file name="$USER_HOME$/CLionProjects/networker/test/UDPSocketTest.cpp" timestamp="1524604921808">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524467059690">
+      <file name="/Dummy.txt" timestamp="1524605289734">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/Common/Types.h" timestamp="1524347962616">
@@ -284,11 +274,6 @@
       </file>
       <file name="$USER_HOME$/dev/ft_p/CMakeLists.txt" timestamp="1520104709430">
         <mark key="[" line="3" column="26" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/ft_p/src_common/get_args.c" timestamp="1520107548145">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/ft_p/src_client/main_client.c" timestamp="1521375964172">
         <mark key="[" line="40" column="20" />
@@ -303,12 +288,7 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="45" column="21" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/networker/Socket.cpp" timestamp="1524303416643">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/networker/BerkeleySocket/SocketAddress.cpp" timestamp="1524346913678">
+      <file name="$USER_HOME$/CLionProjects/networker/BerkeleySocket/SocketAddress.cpp" timestamp="1524604692826">
         <mark key="'" line="5" column="17" />
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="26" />
@@ -407,52 +387,53 @@
       <jump line="121" column="8" filename="$USER_HOME$/CLionProjects/networker/BerkeleySocket/Select.cpp" />
       <jump line="63" column="8" filename="$USER_HOME$/CLionProjects/networker/BerkeleySocket/Select.cpp" />
       <jump line="18" column="67" filename="$USER_HOME$/CLionProjects/networker/Server/Listen.cpp" />
+      <jump line="67" column="54" filename="$USER_HOME$/CLionProjects/networker/Common/Logger.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmtlcjo6QmVya2VsZXkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZpcnR1YWwgUmVzdWx0IGdldFNvY2tldFJlYWR5KHN0ZDo6dmVjdG9yPGNvbnN0IFVEUFNvY2tldCAqPiAmcmVhZFNvY2tldHMsIHN0ZDo6dmVjdG9yPGNvbnN0IFVEUFNvY2tldCAqPiAmd3JpdGVTb2NrZXRzKSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0ZW5UZXN0OjpzZW5kKHJlaW50ZXJwcmV0X2Nhc3Q8Y2hhciAqPigmZGF0YVRvU2VuZCksIHNpemVvZihkYXRhVG9TZW5kKSk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmtlcjo6U2VydmVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RkOjp2ZWN0b3I8Y29uc3QgQmVya2VsZXk6OlVEUFNvY2tldCo+</text>
+        <text>ERROR</text>
       </register>
       <register name="/" type="4">
         <text>read</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGNvbnN0IEJlcmtlbGV5OjpVRFBTb2NrZXQqPiByZWFkU29ja2V0cywgd3JpdGVTb2NrZXRzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBpZiBjb25zdGV4cHIoTGV2ZWxWYWwgPT0gTGV2ZWw6OkVSUk9SKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBsZXZlbFN0ciA9ICJFUlJPUiI7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZpcnR1YWwgUmVzdWx0IGdldFNvY2tldFJlYWR5KHN0ZDo6dmVjdG9yPGNvbnN0IFVEUFNvY2tldCAqPiAmcmVhZFNvY2tldHMsIHN0ZDo6dmVjdG9yPGNvbnN0IFVEUFNvY2tldCAqPiAmd3JpdGVTb2NrZXRzKSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0ZW5UZXN0OjpzZW5kKHJlaW50ZXJwcmV0X2Nhc3Q8Y2hhciAqPigmZGF0YVRvU2VuZCksIHNpemVvZihkYXRhVG9TZW5kKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGNvbnN0IEJlcmtlbGV5OjpVRFBTb2NrZXQqPiByZWFkU29ja2V0cywgd3JpdGVTb2NrZXRzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMtPnJlY2VpdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1fCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0ZW5UZXN0OjpzZW5kKHJlaW50ZXJwcmV0X2Nhc3Q8Y2hhciAqPigmZGF0YVRvU2VuZCksIHNpemVvZihkYXRhVG9TZW5kKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0ZW5UZXN0OjpzZW5kKHJlaW50ZXJwcmV0X2Nhc3Q8Y2hhciAqPigmZGF0YVRvU2VuZCksIHNpemVvZihkYXRhVG9TZW5kKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0ZW5UZXN0OjpzZW5kKHJlaW50ZXJwcmV0X2Nhc3Q8Y2hhciAqPigmZGF0YVRvU2VuZCksIHNpemVvZihkYXRhVG9TZW5kKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTZWxlY3QoKTsK</text>
+        <text encoding="base64">ICAgIExpc3RlblRlc3Q6OnNlbmQocmVpbnRlcnByZXRfY2FzdDxjaGFyICo+KCZkYXRhVG9TZW5kKSwgc2l6ZW9mKGRhdGFUb1NlbmQpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE11bHRpcGxleGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICB1c2xlZXAoMTAwMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
