@@ -35,6 +35,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="8" column="30" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/networker/Protocol/Connection.cpp" timestamp="1525027275579">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/networker/Transport/TransportDefine.h" timestamp="1525026373414">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="40" />
@@ -152,6 +158,11 @@
         <mark key="." line="76" column="35" />
         <mark key="^" line="76" column="35" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/networker/Protocol/ConnectionManager.h" timestamp="1525026640082">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/networker/Transport/BitPackerRead.cpp" timestamp="1525022029881">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="26" />
@@ -163,6 +174,13 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/networker/Protocol/Connection.h" timestamp="1525027077718">
+        <mark key="'" line="21" column="22" />
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="22" column="47" />
+        <mark key="." line="22" column="47" />
+        <mark key="^" line="22" column="47" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/LICENSE" timestamp="1524341097521">
         <mark key="[" line="2" column="19" />
@@ -432,10 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="21" filename="$USER_HOME$/CLionProjects/ft_p/src_client/get_data_from_socket.c" />
-      <jump line="16" column="8" filename="$USER_HOME$/CLionProjects/ft_p/src_client/get_data_from_socket.c" />
-      <jump line="23" column="8" filename="$USER_HOME$/CLionProjects/ft_p/src_client/get_data_from_socket.c" />
-      <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/ft_p/src_client/get_data_from_socket.c" />
       <jump line="42" column="39" filename="$USER_HOME$/CLionProjects/ft_p/src_server/cmd_ls.c" />
       <jump line="84" column="26" filename="$USER_HOME$/CLionProjects/ft_p/src_server/launch_server.c" />
       <jump line="6" column="16" filename="$USER_HOME$/CLionProjects/ft_p/src_server/cmd_ls.c" />
@@ -532,55 +546,59 @@
       <jump line="11" column="3" filename="$USER_HOME$/CLionProjects/networker/Transport/PacketFactory.h" />
       <jump line="8" column="0" filename="$USER_HOME$/CLionProjects/networker/Transport/Packet.h" />
       <jump line="48" column="0" filename="$USER_HOME$/CLionProjects/networker/CMakeLists.txt" />
+      <jump line="7" column="0" filename="$USER_HOME$/CLionProjects/networker/Protocol/ConnectionManager.h" />
+      <jump line="14" column="42" filename="$USER_HOME$/CLionProjects/networker/Protocol/ConnectionManager.h" />
+      <jump line="19" column="38" filename="$USER_HOME$/CLionProjects/networker/Protocol/Connection.h" />
+      <jump line="17" column="22" filename="$USER_HOME$/CLionProjects/networker/Protocol/Connection.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmtlcjo6VHJhbnNwb3J0Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBCZXJrZWxleVNvY2tldC9TZWxlY3QuY3BwCiAgICAgICAgQmVya2VsZXlTb2NrZXQvU2VsZWN0LmgKICAgICAgICBCZXJrZWxleVNvY2tldC9NdWx0aXBsZXhlci5oCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmtlcjo6U2VydmVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>HELLO</text>
+        <text>Transport::PacketType::CONNECTION);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBjb25zdCB1aW50NjRfdCBBUFBfSUQgPSAweDMyOWFiMzQyYjgzYWYK</text>
+        <text encoding="base64">ICAgICAgICBiaXRQYWNrZXIuc2VyaWFsaXplKFRyYW5zcG9ydDo6UGFja2V0VHlwZTo6Q09OTkVDVElPTik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCZXJrZWxleVNvY2tldC9TZWxlY3QuY3BwCiAgICAgICAgQmVya2VsZXlTb2NrZXQvU2VsZWN0LmgKICAgICAgICBCZXJrZWxleVNvY2tldC9NdWx0aXBsZXhlci5oCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tb24vTG9nZ2VyLmgK</text>
+        <text encoding="base64">ICAgICAgICBiaXRQYWNrZXIuc2VyaWFsaXplKFRyYW5zcG9ydDo6UGFja2V0VHlwZTo6Q09OTkVDVElPTik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tb24vVHlwZXMuaAo=</text>
+        <text encoding="base64">ICAgICAgICBiaXRQYWNrZXIuc2VyaWFsaXplKFRyYW5zcG9ydDo6UGFja2V0VHlwZTo6Q09OTkVDVElPTik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tb24vU2V0dGluZ3MuaAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFuc3BvcnQvVHJhbnNwb3J0RGVmaW5lLmgK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBiaXRQYWNrZXIuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBjb25zdCB1aW50NjRfdCBCVUlMRF9JRCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiaXRQYWNrZXQuc2VyaWEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
