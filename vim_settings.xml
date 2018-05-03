@@ -420,10 +420,10 @@
         <mark key="." line="128" column="33" />
         <mark key="^" line="128" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525198726585">
+      <file name="/Dummy.txt" timestamp="1525329684861">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/Common/Types.h" timestamp="1524347962616">
         <mark key="'" line="11" column="5" />
@@ -620,13 +620,13 @@
         <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmtlcjo6VHJhbnNwb3J0Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>mast</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmtlcjo6U2VydmVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>mast</text>
       </register>
       <register name="/" type="4">
         <text>Upda</text>
