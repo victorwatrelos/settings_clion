@@ -15,6 +15,12 @@
         <mark key="." line="28" column="105" />
         <mark key="^" line="28" column="105" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/minelike/Shader/main.vert" timestamp="1527452004236">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/networker/BerkeleySocket/SocketAddress.h" timestamp="1524346895318">
         <mark key="'" line="26" column="35" />
         <mark key="[" line="27" column="37" />
@@ -45,6 +51,10 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ogl-master/tutorial04_colored_cube/tutorial04.cpp" timestamp="1527452394610">
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="232" column="43" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/Transport/TransportDefine.h" timestamp="1525095608544">
         <mark key="[" line="12" column="18" />
@@ -275,12 +285,11 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/minelike/main.cpp" timestamp="1527450324627">
-        <mark key="'" line="61" column="23" />
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="17" />
-        <mark key="." line="8" column="17" />
-        <mark key="^" line="8" column="17" />
+      <file name="$USER_HOME$/CLionProjects/minelike/main.cpp" timestamp="1527452425282">
+        <mark key="[" line="176" column="64" />
+        <mark key="]" line="176" column="72" />
+        <mark key="." line="176" column="72" />
+        <mark key="^" line="176" column="72" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/Transport/PacketFactory.h" timestamp="1525023564164">
         <mark key="[" line="9" column="0" />
@@ -354,6 +363,12 @@
         <mark key="." line="25" column="8" />
         <mark key="^" line="17" column="13" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/minelike/Shader/main.frag" timestamp="1527452506327">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/networker/Protocol/ServerConnection.h" timestamp="1525640216629">
         <mark key="'" line="106" column="60" />
         <mark key="[" line="108" column="31" />
@@ -420,6 +435,11 @@
         <mark key="]" line="74" column="72" />
         <mark key="^" line="74" column="72" />
         <mark key="." line="74" column="72" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ogl-master/tutorial02_red_triangle/tutorial02.cpp" timestamp="1527451120037">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="75" column="101" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/test.cpp" timestamp="1525033615600">
         <mark key="[" line="8" column="1" />
@@ -543,9 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="47" filename="$USER_HOME$/CLionProjects/networker/test/SocketAddressFactoryTest.cpp" />
-      <jump line="4" column="11" filename="$USER_HOME$/CLionProjects/networker/BerkeleySocket/UDPSocket.h" />
-      <jump line="9" column="5" filename="$USER_HOME$/CLionProjects/networker/Common/Types.h" />
       <jump line="26" column="35" filename="$USER_HOME$/CLionProjects/networker/BerkeleySocket/SocketAddress.h" />
       <jump line="1063" column="30" filename="$USER_HOME$/CLionProjects/networker/lib/tinyformat.h" />
       <jump line="50" column="19" filename="$USER_HOME$/CLionProjects/networker/CMakeLists.txt" />
@@ -643,64 +660,67 @@
       <jump line="86" column="14" filename="$USER_HOME$/CLionProjects/minelike/main.cpp" />
       <jump line="1" column="16" filename="$USER_HOME$/CLionProjects/minelike/main.cpp" />
       <jump line="59" column="23" filename="$USER_HOME$/CLionProjects/minelike/main.cpp" />
+      <jump line="18" column="0" filename="$USER_HOME$/Downloads/ogl-master/tutorial02_red_triangle/tutorial02.cpp" />
+      <jump line="218" column="0" filename="$USER_HOME$/CLionProjects/minelike/main.cpp" />
+      <jump line="196" column="24" filename="$USER_HOME$/CLionProjects/minelike/main.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmtlcjo6VHJhbnNwb3J0Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luYwo=</text>
+        <text encoding="base64">aW4gdmVjMyBmcmFnbWVudENvbG9yOwpvdXQgdmVjMyBjb2xvcjsKCnZvaWQgbWFpbigpewogICAgLy8gT3V0cHV0IGNvbG9yID0gY29sb3Igc3BlY2lmaWVkIGluIHRoZSB2ZXJ0ZXggc2hhZGVyLAogICAgLy8gaW50ZXJwb2xhdGVkIGJldHdlZW4gYWxsIDMgc3Vycm91bmRpbmcgdmVydGljZXMKICAgIGNvbG9yID0gZnJhZ21lbnRDb2xvcjsKfQoK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmtlcjo6U2VydmVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>fragmentshader</text>
       </register>
       <register name="/" type="4">
-        <text>SimpleVolume</text>
+        <text>VertexArray</text>
       </register>
-      <register name="0" type="4">
-        <text>${CMAKE_CURRENT_LIST_DIR}/glfw/include</text>
+      <register name="0" type="2">
+        <text encoding="base64">CS8vIENsZWFudXAgVkJPIGFuZCBzaGFkZXIKCWdsRGVsZXRlQnVmZmVycygxLCAmdmVydGV4YnVmZmVyKTsKCWdsRGVsZXRlQnVmZmVycygxLCAmY29sb3JidWZmZXIpOwoJZ2xEZWxldGVQcm9ncmFtKHByb2dyYW1JRCk7CglnbERlbGV0ZVZlcnRleEFycmF5cygxLCAmVmVydGV4QXJyYXlJRCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luYwo=</text>
+        <text encoding="base64">aW4gdmVjMyBmcmFnbWVudENvbG9yOwpvdXQgdmVjMyBjb2xvcjsKCnZvaWQgbWFpbigpewogICAgLy8gT3V0cHV0IGNvbG9yID0gY29sb3Igc3BlY2lmaWVkIGluIHRoZSB2ZXJ0ZXggc2hhZGVyLAogICAgLy8gaW50ZXJwb2xhdGVkIGJldHdlZW4gYWxsIDMgc3Vycm91bmRpbmcgdmVydGljZXMKICAgIGNvbG9yID0gZnJhZ21lbnRDb2xvcjsKfQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnbENsZWFyKEdMX0NPTE9SX0JVRkZFUl9CSVQpOwo=</text>
+        <text encoding="base64">ICAgIC8vIENsZWFudXAgVkJPCiAgICBnbERlbGV0ZUJ1ZmZlcnMoMSwgJnZlcnRleGJ1ZmZlcik7CiAgICBnbERlbGV0ZVZlcnRleEFycmF5cygxLCAmVmVydGV4QXJyYXlJRCk7CiAgICBnbERlbGV0ZVByb2dyYW0ocHJvZ3JhbUlEKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMC4wZiwgIDEuMGYsIDAuMGYsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2ZpbmRfbGlicmFyeShHTEZXX0NBQ0hFIGdsZncpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMS4wZiwgLTEuMGYsIDAuMGYsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2xpbmtfZGlyZWN0b3JpZXMoJHtDTUFLRV9DVVJSRU5UX0xJU1RfRElSfS9nbGZ3L3NyYykK</text>
+        <text encoding="base64">CiAgICBzdGF0aWMgY29uc3QgZmxvYXQgZ192ZXJ0ZXhfYnVmZmVyX2RhdGFbXSA9IHsKICAgICAgICAgICAgLTEuMGYsIC0xLjBmLCAwLjBmLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2ZpbmRfbGlicmFyeShHTEZXX0NBQ0hFIGdsZncpCg==</text>
+        <text encoding="base64">c3RhdGljIGNvbnN0IEdMZmxvYXQgZ192ZXJ0ZXhfYnVmZmVyX2RhdGFbXSA9IHsKICAgICAgICAtMS4wZiwtMS4wZiwtMS4wZiwgLy8gdHJpYW5nbGUgMSA6IGJlZ2luCiAgICAgICAgLTEuMGYsLTEuMGYsIDEuMGYsCiAgICAgICAgLTEuMGYsIDEuMGYsIDEuMGYsIC8vIHRyaWFuZ2xlIDEgOiBlbmQKICAgICAgICAxLjBmLCAxLjBmLC0xLjBmLCAvLyB0cmlhbmdsZSAyIDogYmVnaW4KICAgICAgICAtMS4wZiwtMS4wZiwtMS4wZiwKICAgICAgICAtMS4wZiwgMS4wZiwtMS4wZiwgLy8gdHJpYW5nbGUgMiA6IGVuZAogICAgICAgIDEuMGYsLTEuMGYsIDEuMGYsCiAgICAgICAgLTEuMGYsLTEuMGYsLTEuMGYsCiAgICAgICAgMS4wZiwtMS4wZiwtMS4wZiwKICAgICAgICAxLjBmLCAxLjBmLC0xLjBmLAogICAgICAgIDEuMGYsLTEuMGYsLTEuMGYsCiAgICAgICAgLTEuMGYsLTEuMGYsLTEuMGYsCiAgICAgICAgLTEuMGYsLTEuMGYsLTEuMGYsCiAgICAgICAgLTEuMGYsIDEuMGYsIDEuMGYsCiAgICAgICAgLTEuMGYsIDEuMGYsLTEuMGYsCiAgICAgICAgMS4wZiwtMS4wZiwgMS4wZiwKICAgICAgICAtMS4wZiwtMS4wZiwgMS4wZiwKICAgICAgICAtMS4wZiwtMS4wZiwtMS4wZiwKICAgICAgICAtMS4wZiwgMS4wZiwgMS4wZiwKICAgICAgICAtMS4wZiwtMS4wZiwgMS4wZiwKICAgICAgICAxLjBmLC0xLjBmLCAxLjBmLAogICAgICAgIDEuMGYsIDEuMGYsIDEuMGYsCiAgICAgICAgMS4wZiwtMS4wZiwtMS4wZiwKICAgICAgICAxLjBmLCAxLjBmLC0xLjBmLAogICAgICAgIDEuMGYsLTEuMGYsLTEuMGYsCiAgICAgICAgMS4wZiwgMS4wZiwgMS4wZiwKICAgICAgICAxLjBmLC0xLjBmLCAxLjBmLAogICAgICAgIDEuMGYsIDEuMGYsIDEuMGYsCiAgICAgICAgMS4wZiwgMS4wZiwtMS4wZiwKICAgICAgICAtMS4wZiwgMS4wZiwtMS4wZiwKICAgICAgICAxLjBmLCAxLjBmLCAxLjBmLAogICAgICAgIC0xLjBmLCAxLjBmLC0xLjBmLAogICAgICAgIC0xLjBmLCAxLjBmLCAxLjBmLAogICAgICAgIDEuMGYsIDEuMGYsIDEuMGYsCiAgICAgICAgLTEuMGYsIDEuMGYsIDEuMGYsCiAgICAgICAgMS4wZiwtMS4wZiwgMS4wZgp9OwpzdGF0aWMgY29uc3QgR0xmbG9hdCBnX2NvbG9yX2J1ZmZlcl9kYXRhW10gPSB7CiAgICAgICAgMC41ODNmLCAgMC43NzFmLCAgMC4wMTRmLAogICAgICAgIDAuNjA5ZiwgIDAuMTE1ZiwgIDAuNDM2ZiwKICAgICAgICAwLjMyN2YsICAwLjQ4M2YsICAwLjg0NGYsCiAgICAgICAgMC44MjJmLCAgMC41NjlmLCAgMC4yMDFmLAogICAgICAgIDAuNDM1ZiwgIDAuNjAyZiwgIDAuMjIzZiwKICAgICAgICAwLjMxMGYsICAwLjc0N2YsICAwLjE4NWYsCiAgICAgICAgMC41OTdmLCAgMC43NzBmLCAgMC43NjFmLAogICAgICAgIDAuNTU5ZiwgIDAuNDM2ZiwgIDAuNzMwZiwKICAgICAgICAwLjM1OWYsICAwLjU4M2YsICAwLjE1MmYsCiAgICAgICAgMC40ODNmLCAgMC41OTZmLCAgMC43ODlmLAogICAgICAgIDAuNTU5ZiwgIDAuODYxZiwgIDAuNjM5ZiwKICAgICAgICAwLjE5NWYsICAwLjU0OGYsICAwLjg1OWYsCiAgICAgICAgMC4wMTRmLCAgMC4xODRmLCAgMC41NzZmLAogICAgICAgIDAuNzcxZiwgIDAuMzI4ZiwgIDAuOTcwZiwKICAgICAgICAwLjQwNmYsICAwLjYxNWYsICAwLjExNmYsCiAgICAgICAgMC42NzZmLCAgMC45NzdmLCAgMC4xMzNmLAogICAgICAgIDAuOTcxZiwgIDAuNTcyZiwgIDAuODMzZiwKICAgICAgICAwLjE0MGYsICAwLjYxNmYsICAwLjQ4OWYsCiAgICAgICAgMC45OTdmLCAgMC41MTNmLCAgMC4wNjRmLAogICAgICAgIDAuOTQ1ZiwgIDAuNzE5ZiwgIDAuNTkyZiwKICAgICAgICAwLjU0M2YsICAwLjAyMWYsICAwLjk3OGYsCiAgICAgICAgMC4yNzlmLCAgMC4zMTdmLCAgMC41MDVmLAogICAgICAgIDAuMTY3ZiwgIDAuNjIwZiwgIDAuMDc3ZiwKICAgICAgICAwLjM0N2YsICAwLjg1N2YsICAwLjEzN2YsCiAgICAgICAgMC4wNTVmLCAgMC45NTNmLCAgMC4wNDJmLAogICAgICAgIDAuNzE0ZiwgIDAuNTA1ZiwgIDAuMzQ1ZiwKICAgICAgICAwLjc4M2YsICAwLjI5MGYsICAwLjczNGYsCiAgICAgICAgMC43MjJmLCAgMC42NDVmLCAgMC4xNzRmLAogICAgICAgIDAuMzAyZiwgIDAuNDU1ZiwgIDAuODQ4ZiwKICAgICAgICAwLjIyNWYsICAwLjU4N2YsICAwLjA0MGYsCiAgICAgICAgMC41MTdmLCAgMC43MTNmLCAgMC4zMzhmLAogICAgICAgIDAuMDUzZiwgIDAuOTU5ZiwgIDAuMTIwZiwKICAgICAgICAwLjM5M2YsICAwLjYyMWYsICAwLjM2MmYsCiAgICAgICAgMC42NzNmLCAgMC4yMTFmLCAgMC40NTdmLAogICAgICAgIDAuODIwZiwgIDAuODgzZiwgIDAuMzcxZiwKICAgICAgICAwLjk4MmYsICAwLjA5OWYsICAwLjg3OWYKfTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZHNhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGFyZ2V0X2luY2x1ZGVfZGlyZWN0b3JpZXMoKQo=</text>
+        <text encoding="base64">ICAgIC8vIFRoaXMgd2lsbCBpZGVudGlmeSBvdXIgdmVydGV4IGJ1ZmZlcgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SimpleVolume</last-search>
+      <last-search>VertexArray</last-search>
       <last-offset />
-      <last-pattern>SimpleVolume</last-pattern>
+      <last-pattern>VertexArray</last-pattern>
       <last-replace>PolyVox::SimpleVolume</last-replace>
       <last-substitute>SimpleVolume</last-substitute>
       <last-dir>1</last-dir>
@@ -708,7 +728,6 @@
     </search>
     <history>
       <history-search>
-        <entry>server</entry>
         <entry>listen</entry>
         <entry>init_server</entry>
         <entry>received bugg</entry>
@@ -728,6 +747,7 @@
         <entry>bool</entry>
         <entry>Upda</entry>
         <entry>SimpleVolume</entry>
+        <entry>VertexArray</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NlcnZlci9jbGllbnQvZw==</entry>
@@ -737,8 +757,8 @@
         <entry encoding="base64">JzwsJz5zL3JlYWQvd3JpdGUvZw==</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zL2Jvb2wvdm9pZA==</entry>
-        <entry>W</entry>
         <entry>%s/SimpleVolume/PolyVox::SimpleVolume/g</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
