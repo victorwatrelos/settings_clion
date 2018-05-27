@@ -196,6 +196,12 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/minelike/glfw/CMakeLists.txt" timestamp="1527442195255">
+        <mark key="[" line="326" column="0" />
+        <mark key="]" line="326" column="38" />
+        <mark key="." line="325" column="7" />
+        <mark key="^" line="325" column="7" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/networker/Transport/BitPacker.cpp" timestamp="1525041402954">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="19" column="7" />
@@ -269,6 +275,13 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="16" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/minelike/main.cpp" timestamp="1527443541751">
+        <mark key="'" line="1" column="16" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="37" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/networker/Transport/PacketFactory.h" timestamp="1525023564164">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="29" />
@@ -298,11 +311,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/minelike/CMakeLists.txt" timestamp="1527323492863">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/CLionProjects/minelike/CMakeLists.txt" timestamp="1527442975326">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="26" column="68" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/BerkeleySocket/Socket.h" timestamp="1524305734533">
         <mark key="[" line="15" column="0" />
@@ -530,10 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="9" filename="$USER_HOME$/CLionProjects/networker/BerkeleySocket/SocketAddress.cpp" />
-      <jump line="5" column="17" filename="$USER_HOME$/CLionProjects/networker/BerkeleySocket/SocketAddress.cpp" />
-      <jump line="24" column="0" filename="$USER_HOME$/CLionProjects/networker/CMakeLists.txt" />
-      <jump line="49" column="0" filename="$USER_HOME$/CLionProjects/networker/CMakeLists.txt" />
       <jump line="10" column="49" filename="$USER_HOME$/CLionProjects/networker/test/SocketAddressFactoryTest.cpp" />
       <jump line="6" column="47" filename="$USER_HOME$/CLionProjects/networker/test/SocketAddressFactoryTest.cpp" />
       <jump line="4" column="11" filename="$USER_HOME$/CLionProjects/networker/BerkeleySocket/UDPSocket.h" />
@@ -630,66 +639,70 @@
       <jump line="15" column="4" filename="$USER_HOME$/CLionProjects/networker/Protocol/ClientConnection.cpp" />
       <jump line="37" column="8" filename="$USER_HOME$/CLionProjects/networker/Protocol/ServerConnection.h" />
       <jump line="106" column="60" filename="$USER_HOME$/CLionProjects/networker/Protocol/ServerConnection.h" />
+      <jump line="6" column="25" filename="$USER_HOME$/CLionProjects/minelike/main.cpp" />
+      <jump line="77" column="1" filename="$USER_HOME$/CLionProjects/minelike/main.cpp" />
+      <jump line="86" column="14" filename="$USER_HOME$/CLionProjects/minelike/main.cpp" />
+      <jump line="1" column="16" filename="$USER_HOME$/CLionProjects/minelike/main.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmtlcjo6VHJhbnNwb3J0Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBnbENsZWFyKEdMX0NPTE9SX0JVRkZFUl9CSVQpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmtlcjo6U2VydmVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
-        <text>Upda</text>
+        <text>SimpleVolume</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIE5ldHdvcmtlcjo6QmVya2VsZXk6OlNvY2tldEFkZHJlc3MgZGVzdCgweDdmMDAwMDAxLCA4MDgwKTsK</text>
+      <register name="0" type="4">
+        <text>${CMAKE_CURRENT_LIST_DIR}/glfw/include</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKCR7UFJPSkVDVF9OQU1FfSBQb2x5eFZveCkK</text>
+        <text encoding="base64">ICAgICAgICBnbENsZWFyKEdMX0NPTE9SX0JVRkZFUl9CSVQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRkX2xpYnJhcnkoUG9seVZveCBTVEFUSUMgKQo=</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzdGF0aWNfYXNzZXJ0KFNpemUgPiAzLCAiU2l6ZSBzaG91bGQgYmUgYXQgbGVhc3QgNCB0byB1c2UgdGhlIFcgY29tcG9uZW50Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2ZpbmRfbGlicmFyeShHTEZXX0NBQ0hFIGdsZncpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlcnZlckNvbm5lY3Rpb24uCg==</text>
+        <text encoding="base64">I2xpbmtfZGlyZWN0b3JpZXMoJHtDTUFLRV9DVVJSRU5UX0xJU1RfRElSfS9nbGZ3L3NyYykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2ZpbmRfbGlicmFyeShHTEZXX0NBQ0hFIGdsZncpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZHNhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3RvcjxQcm90b2NvbDo6Q2xpZW50Q29ubmVjdGlvbiA8IEJlcmtlbGV5OjpVRFBTb2NrZXQ+IG1fY29ubmVjdGlvbnM7Cg==</text>
+        <text encoding="base64">dGFyZ2V0X2luY2x1ZGVfZGlyZWN0b3JpZXMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGljX2Fzc2VydAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Upda</last-search>
+      <last-search>SimpleVolume</last-search>
       <last-offset />
-      <last-pattern>Upda</last-pattern>
-      <last-replace>void</last-replace>
-      <last-substitute>bool</last-substitute>
+      <last-pattern>SimpleVolume</last-pattern>
+      <last-replace>PolyVox::SimpleVolume</last-replace>
+      <last-substitute>SimpleVolume</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -714,6 +727,7 @@
         <entry encoding="base64">XDxzdGRcPg==</entry>
         <entry>bool</entry>
         <entry>Upda</entry>
+        <entry>SimpleVolume</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NlcnZlci9jbGllbnQvZw==</entry>
@@ -724,6 +738,7 @@
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zL2Jvb2wvdm9pZA==</entry>
         <entry>W</entry>
+        <entry>%s/SimpleVolume/PolyVox::SimpleVolume/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
