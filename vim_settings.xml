@@ -275,12 +275,12 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/minelike/main.cpp" timestamp="1527443541751">
-        <mark key="'" line="1" column="16" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="37" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="42" column="0" />
+      <file name="$USER_HOME$/CLionProjects/minelike/main.cpp" timestamp="1527450324627">
+        <mark key="'" line="61" column="23" />
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/Transport/PacketFactory.h" timestamp="1525023564164">
         <mark key="[" line="9" column="0" />
@@ -543,7 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="49" filename="$USER_HOME$/CLionProjects/networker/test/SocketAddressFactoryTest.cpp" />
       <jump line="6" column="47" filename="$USER_HOME$/CLionProjects/networker/test/SocketAddressFactoryTest.cpp" />
       <jump line="4" column="11" filename="$USER_HOME$/CLionProjects/networker/BerkeleySocket/UDPSocket.h" />
       <jump line="9" column="5" filename="$USER_HOME$/CLionProjects/networker/Common/Types.h" />
@@ -643,13 +642,14 @@
       <jump line="77" column="1" filename="$USER_HOME$/CLionProjects/minelike/main.cpp" />
       <jump line="86" column="14" filename="$USER_HOME$/CLionProjects/minelike/main.cpp" />
       <jump line="1" column="16" filename="$USER_HOME$/CLionProjects/minelike/main.cpp" />
+      <jump line="59" column="23" filename="$USER_HOME$/CLionProjects/minelike/main.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmtlcjo6VHJhbnNwb3J0Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBnbENsZWFyKEdMX0NPTE9SX0JVRkZFUl9CSVQpOwo=</text>
+        <text encoding="base64">I2luYwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmtlcjo6U2VydmVyCg==</text>
@@ -664,34 +664,34 @@
         <text>${CMAKE_CURRENT_LIST_DIR}/glfw/include</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnbENsZWFyKEdMX0NPTE9SX0JVRkZFUl9CSVQpOwo=</text>
+        <text encoding="base64">I2luYwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgICAgICBnbENsZWFyKEdMX0NPTE9SX0JVRkZFUl9CSVQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2ZpbmRfbGlicmFyeShHTEZXX0NBQ0hFIGdsZncpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2xpbmtfZGlyZWN0b3JpZXMoJHtDTUFLRV9DVVJSRU5UX0xJU1RfRElSfS9nbGZ3L3NyYykK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">I2ZpbmRfbGlicmFyeShHTEZXX0NBQ0hFIGdsZncpCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">I2xpbmtfZGlyZWN0b3JpZXMoJHtDTUFLRV9DVVJSRU5UX0xJU1RfRElSfS9nbGZ3L3NyYykK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZHNhCg==</text>
+        <text encoding="base64">I2ZpbmRfbGlicmFyeShHTEZXX0NBQ0hFIGdsZncpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGFyZ2V0X2luY2x1ZGVfZGlyZWN0b3JpZXMoKQo=</text>
+        <text encoding="base64">ZHNhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFyZ2V0X2luY2x1ZGVfZGlyZWN0b3JpZXMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
