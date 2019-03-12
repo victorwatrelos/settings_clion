@@ -179,12 +179,11 @@
         <mark key="." line="66" column="20" />
         <mark key="^" line="66" column="20" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/networker/CMakeLists.txt" timestamp="1525198025219">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="93" column="44" />
-        <mark key="]" line="94" column="7" />
-        <mark key="." line="94" column="7" />
-        <mark key="^" line="94" column="7" />
+      <file name="$USER_HOME$/CLionProjects/networker/CMakeLists.txt" timestamp="1552432346683">
+        <mark key="'" line="30" column="26" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/Protocol/ConnectionManager.h" timestamp="1525026640082">
         <mark key="[" line="12" column="16" />
@@ -501,6 +500,12 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/networker/Transport/BitPackerWrite.h" timestamp="1552261148800">
+        <mark key="[" line="59" column="19" />
+        <mark key="]" line="59" column="27" />
+        <mark key="^" line="59" column="27" />
+        <mark key="." line="59" column="27" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/polyvox/library/PolyVoxCore/include/PolyVoxCore/Vector.inl" timestamp="1527322961519">
         <mark key="[" line="514" column="0" />
         <mark key="]" line="514" column="0" />
@@ -520,10 +525,11 @@
         <mark key="^" line="53" column="33" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/networker/test/Protocol/ServerConnectionTest.cpp" timestamp="1552261012314">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/CLionProjects/networker/test/Protocol/ServerConnectionTest.cpp" timestamp="1552261282786">
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="32" column="39" />
+        <mark key="." line="32" column="39" />
+        <mark key="^" line="32" column="39" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/Common/Helper.h" timestamp="1525080151892">
         <mark key="[" line="21" column="5" />
@@ -581,9 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="8" filename="$USER_HOME$/CLionProjects/networker/BerkeleySocket/Select.cpp" />
-      <jump line="63" column="8" filename="$USER_HOME$/CLionProjects/networker/BerkeleySocket/Select.cpp" />
-      <jump line="18" column="67" filename="$USER_HOME$/CLionProjects/networker/Server/Listen.cpp" />
       <jump line="67" column="54" filename="$USER_HOME$/CLionProjects/networker/Common/Logger.h" />
       <jump line="4" column="19" filename="$USER_HOME$/CLionProjects/networker/Transport/Stream.h" />
       <jump line="14" column="3" filename="$USER_HOME$/CLionProjects/networker/Transport/BitPacker.h" />
@@ -681,64 +684,67 @@
       <jump line="95" column="0" filename="$USER_HOME$/CLionProjects/networker/Protocol/ClientConnection.h" />
       <jump line="35" column="0" filename="$USER_HOME$/CLionProjects/networker/test/Protocol/ClientConnectionTest.h" />
       <jump line="63" column="0" filename="$USER_HOME$/CLionProjects/networker/Protocol/Messages.h" />
+      <jump line="4" column="31" filename="$USER_HOME$/CLionProjects/networker/CMakeLists.txt" />
+      <jump line="21" column="0" filename="$USER_HOME$/CLionProjects/networker/CMakeLists.txt" />
+      <jump line="28" column="26" filename="$USER_HOME$/CLionProjects/networker/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmtlcjo6VHJhbnNwb3J0Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>const;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmluZF9wYWNrYWdlKGdtb2NrIFJFUVVJUkVEKQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmtlcjo6U2VydmVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>const;</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>is</text>
+        <text>libgte</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZvaWQgQml0UGFja2VyOjpzZXRTdHJlYW0oY29uc3QgU3RyZWFtJiBzdHJlYW0pCg==</text>
+        <text encoding="base64">ZmluZF9wYWNrYWdlKGd0ZXN0IFJFUVVJUkVEKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmluZF9wYWNrYWdlKGdtb2NrIFJFUVVJUkVEKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmluZF9wYWNrYWdlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIGNvcHlGcm9tT3RoZXJTdHJlYW0oQnVmZmVyIHNyY0J1ZmZlcikgY29uc3Q7Cg==</text>
+        <text encoding="base64">c2V0KEJVSUxEX0dNT0NLKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmVhbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJlYWRTdHJlYW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJpdFBhY2tlcldyaXRlLmdldFN0cmVhbSgpLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFuc3BvcnQ6OlBhY2tldFR5cGUgZ2V0VHlwZSgpIGNvbnN0Owo=</text>
+        <text encoding="base64">aW5jbHVkZV9kaXJlY3Rvcmllcygke2d0ZXN0X1NPVVJDRV9ESVJ9L2luY2x1ZGUgJHtndGVzdF9TT1VSQ0VfRElSfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBUcmFuc3BvcnQ6OlBhY2tldFR5cGUgSGVhZGVyOjpnZXRUeXBlKCkgY29uc3QKICAgIHsKICAgICAgICByZXR1cm4gbV90eXBlOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFuc3BvcnQ6OlBhY2tldFR5cGUgbV90eXBlOwo=</text>
+        <text encoding="base64">aW5jbHVkZV9kaXJlY3Rvcmllcygke2d0ZXN0X1NPVVJDRV9ESVJ9L2luY2x1ZGUgJHtndGVzdF9TT1VSQ0VfRElSfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>is</last-search>
+      <last-search>libgte</last-search>
       <last-offset />
-      <last-pattern>is</last-pattern>
+      <last-pattern>libgte</last-pattern>
       <last-replace>PolyVox::SimpleVolume</last-replace>
       <last-substitute>SimpleVolume</last-substitute>
       <last-dir>1</last-dir>
@@ -746,7 +752,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">IC0=</entry>
         <entry>ObjectManagerB</entry>
         <entry>test.cpp</entry>
         <entry>bench</entry>
@@ -766,6 +771,7 @@
         <entry>select</entry>
         <entry>setTyp</entry>
         <entry>is</entry>
+        <entry>libgte</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NlcnZlci9jbGllbnQvZw==</entry>
