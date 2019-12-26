@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/networker/test/Protocol/ClientConnectionTest.h" timestamp="1549118460120">
+      <file name="$USER_HOME$/CLionProjects/networker/test/Protocol/ClientConnectionTest.h" timestamp="1577205302645">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="33" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
@@ -187,11 +187,10 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/networker/test/Protocol/ServerConnectionTest.h" timestamp="1552259207316">
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="18" column="3" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="18" column="3" />
+      <file name="$USER_HOME$/CLionProjects/networker/test/Protocol/ServerConnectionTest.h" timestamp="1577205306465">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/lib/tinyformat.h" timestamp="1524343383209">
         <mark key="'" line="1108" column="30" />
@@ -230,11 +229,11 @@
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/networker/Protocol/ServerConnection.h" timestamp="1577199798543">
-        <mark key="[" line="46" column="37" />
-        <mark key="]" line="46" column="37" />
-        <mark key="." line="46" column="37" />
-        <mark key="^" line="46" column="37" />
+      <file name="$USER_HOME$/CLionProjects/networker/Protocol/ServerConnection.h" timestamp="1577205329716">
+        <mark key="[" line="32" column="9" />
+        <mark key="]" line="127" column="24" />
+        <mark key="." line="127" column="24" />
+        <mark key="^" line="127" column="24" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/Common/StateMachine.h" timestamp="1577112758506">
         <mark key="[" line="11" column="23" />
@@ -270,12 +269,7 @@
         <mark key="^" line="28" column="48" />
         <mark key="." line="28" column="48" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/networker/Protocol/ClientConnection.h" timestamp="1577199782478">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="88" column="14" />
-      </file>
+      <file name="$USER_HOME$/CLionProjects/networker/Protocol/ClientConnection.h" timestamp="1577205165463" />
       <file name="$USER_HOME$/CLionProjects/polyvox/library/PolyVoxCore/include/PolyVoxCore/Vector.inl" timestamp="1527322961519">
         <mark key="[" line="514" column="0" />
         <mark key="]" line="514" column="0" />
@@ -565,11 +559,11 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="45" column="21" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/networker/test/Protocol/ServerConnectionTest.cpp" timestamp="1577198675570">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="32" column="37" />
-        <mark key="." line="34" column="27" />
-        <mark key="^" line="34" column="27" />
+      <file name="$USER_HOME$/CLionProjects/networker/test/Protocol/ServerConnectionTest.cpp" timestamp="1577205287877">
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="21" column="60" />
+        <mark key="." line="21" column="60" />
+        <mark key="^" line="21" column="60" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/Common/Helper.h" timestamp="1577195681626">
         <mark key="[" line="21" column="30" />
@@ -587,11 +581,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/networker/test/Protocol/ClientConnectionTest.cpp" timestamp="1577198804742">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="22" />
-        <mark key="^" line="18" column="27" />
-        <mark key="." line="19" column="22" />
+      <file name="$USER_HOME$/CLionProjects/networker/test/Protocol/ClientConnectionTest.cpp" timestamp="1577205263951">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="49" column="65" />
+        <mark key="^" line="22" column="9" />
+        <mark key="." line="22" column="9" />
       </file>
       <file name="$USER_HOME$/CLionProjects/networker/Transport/BitPacker.h" timestamp="1577195522703">
         <mark key="'" line="35" column="0" />
@@ -708,49 +702,49 @@
         <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmtlcjo6VHJhbnNwb3J0Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHZvaWQpcGFja2V0U3RyZWFtOwo=</text>
+        <text encoding="base64">Y2xhc3MgTW9ja1JhbmRvbUdlbmVyYXRvcgp7CnB1YmxpYzoKICAgIHN0YXRpYyB2b2lkIGluaXRpYWxpemUoKQogICAgewogICAgfQoKICAgIHN0YXRpYyB1aW50MTZfdCBnZXRVaW50MTYoKQogICAgewogICAgICAgIHN0YXRpYyBpbnQgbmIgPSAweGRlYWQ7CiAgICAgICAgcmV0dXJuIG5iKys7CiAgICB9Cn07Cgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmtlcjo6U2VydmVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, packetStream</text>
+        <text>ClientConnection</text>
       </register>
       <register name="/" type="4">
         <text>libgte</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IC8vICBFWFBFQ1RfQ0FMTChtb2NrU29ja2V0LCBzZW5kVG8oXywgXywgXykpCiAvLyAgICAgICAgICAuV2l0aChBcmdzPDAsIDE+KEVsZW1lbnRzQXJlKDAsIDB4MDAsIDB4NCwgMCwgMCwgMGIwMDEwJzAwMDApKSkvL0xhc3QgcGFyYW0gaXMgdGhlIGZsYWcgU1lOCiAvLyAgICAgICAgICAuVGltZXMoMSkKIC8vICAgICAgICAgIC5XaWxsT25jZShSZXR1cm4odHJ1ZSkpOwo=</text>
+        <text encoding="base64">Y2xhc3MgTW9ja1JhbmRvbUdlbmVyYXRvcgp7CnB1YmxpYzoKICAgIHN0YXRpYyB2b2lkIGluaXRpYWxpemUoKQogICAgewogICAgfQoKICAgIHN0YXRpYyB1aW50MTZfdCBnZXRVaW50MTYoKQogICAgewogICAgICAgIHN0YXRpYyBpbnQgbmIgPSAweGRlYWQ7CiAgICAgICAgcmV0dXJuIG5iKys7CiAgICB9Cn07Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHZvaWQpcGFja2V0U3RyZWFtOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPFByb3RvY29sL1NlcnZlci5oPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIFBhcnNlIHBheWxvYWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IC8vICAvLzEyNy4wLjAuMTo4MDgwCiAvLyAgTmV0d29ya2VyOjpCZXJrZWxleTo6U29ja2V0QWRkcmVzcyBkZXN0KDB4N2YwMDAwMDEsIDgwODApOwogLy8gIE1vY2tTb2NrZXRJbml0Q29ubmVjdGlvbiBtb2NrU29ja2V0OwogLy8gIE5ldHdvcmtlcjo6UHJvdG9jb2w6OkhlYWRlck9yZGVyZWRSZWxpYWJsZSBmYWtlUGFja2V0SGVhZGVyKDMsIDAsIDApOwogLy8gIGZha2VQYWNrZXRIZWFkZXIuc2V0U3luKCk7CgogLy8gIE5ldHdvcmtlcjo6UHJvdG9jb2w6OlNlcnZlckNvbm5lY3Rpb248TW9ja1NvY2tldEluaXRDb25uZWN0aW9uPiBzZXJ2ZXJDb25uZWN0aW9uKGRlc3QsIG1vY2tTb2NrZXQpOwoKIC8vICBOZXR3b3JrZXI6OlRyYW5zcG9ydDo6Qml0UGFja2VyV3JpdGUgYml0UGFja2VyV3JpdGU7CiAvLyAgZmFrZVBhY2tldEhlYWRlci5zZXJpYWxpemUoYml0UGFja2VyV3JpdGUpOwogLy8gIE5ldHdvcmtlcjo6VHJhbnNwb3J0OjpCaXRQYWNrZXJSZWFkIGJpdFBhY2tlclJlYWQ7CiAvLyAgTmV0d29ya2VyOjpUcmFuc3BvcnQ6OlN0cmVhbSByZWFkU3RyZWFtOwogLy8gIHJlYWRTdHJlYW0uY29weUZyb21CdWZmZXIoYml0UGFja2VyV3JpdGUuZ2V0U3RyZWFtKCkuZ2V0QnVmZmVyKCkpOwogLy8gIGJpdFBhY2tlclJlYWQuc2V0U3RyZWFtKHJlYWRTdHJlYW0pOwoKIC8vICBFWFBFQ1RfQ0FMTChtb2NrU29ja2V0LCBzZW5kVG8oXywgXywgXykpCiAvLyAgICAgICAgICAuV2l0aChBcmdzPDAsIDE+KEVsZW1lbnRzQXJlKDAsIDB4MDAsIDB4NCwgMCwgMCwgMGIwMDEwJzAwMDApKSkvL0xhc3QgcGFyYW0gaXMgdGhlIGZsYWcgU1lOCiAvLyAgICAgICAgICAuVGltZXMoMSkKIC8vICAgICAgICAgIC5XaWxsT25jZShSZXR1cm4odHJ1ZSkpOwogICAgLy9zZXJ2ZXJDb25uZWN0aW9uLlJlY2VpdmVSZWxpYWJsZVBhY2tldChiaXRQYWNrZXJSZWFkKTsKICAgIC8vVE9ETyBSZXdyaXRlIHRoaXMgdGVzdAogICAgYXNzZXJ0KGZhbHNlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHZvaWQpcGFja2V0U3RyZWFtOwo=</text>
-      </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgICAKICAgICA=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgU3RhdGU6OlNZTl9SRUNFSVZFRDoKICAgICAgICAgICAgICAgICAgICAvL1dlIHdhaXQgZm9yIGFuIGFjaywgdG8gYWNrbm93bGVkZ2UgdGhlIGNvbm5lY3Rpb24gcGFja2V0IHJlc3BvbnNlIFNZTl9BQ0sKICAgICAgICAgICAgICAgICAgICB0ZXN0QWNrKGhlYWRlcik7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHZvaWQpaGVhZGVyOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKHZvaWQpcGFja2V0U3RyZWFtOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIFBhcnNlIHBheWxvYWQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib29sIHN5blJlY2VpdmVkKGNvbnN0IFBhcnRIZWFkZXImIGhlYWRlcikKICAgICAgICB7CiAgICAgICAgICAgICh2b2lkKWhlYWRlcjsKICAgICAgICAgICAgbV9zdGF0ZS5zZXRTdGF0ZShTdGF0ZTo6RVNUQUJMSVNIRUQpOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
